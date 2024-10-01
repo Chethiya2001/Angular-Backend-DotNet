@@ -15,3 +15,4 @@ C:\Users\USER\Desktop\DotNet\udemy-project\Infra\obj\Debug\net8.0\Infra.pdb
 C:\Users\USER\Desktop\DotNet\udemy-project\Infra\obj\Debug\net8.0\ref\Infra.dll
 C:\Users\USER\Desktop\DotNet\udemy-project\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
 C:\Users\USER\Desktop\DotNet\udemy-project\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+C:\Users\USER\Desktop\DotNet\udemy-project\Infra\obj\Debug\net8.0\Infra.sourcelink.json
